@@ -1,1 +1,20 @@
-{}
+{
+  "type": "spot",
+  "spotter": "EA1HET",
+  "dx": "DL0XXX",
+  "freq": 14020.5,
+  "mode": "CW",
+  "time": "2025-02-26T14:23:00Z",
+  "snr": 10,
+  "grid": "IN73aa",
+  "comment": "CQ DX",
+  "src": "manual",
+  "club_id": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "550e8400-e29b-41d4-a716-446655440000"
+  "data": {
+    "path_distance": 1780,
+    "path_azimuth": 240,
+    "grayline_status": false,
+    "spotter_profile": "https://www.hamqth.com/ea1het",
+    "spot_signature": "SHA256:5e2c96a1bb0f09ed3fb2402feeedde21e1967f25e296163570948dbd268fed8d"
+  }}
