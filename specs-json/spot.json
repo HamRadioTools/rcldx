@@ -9,7 +9,7 @@
   "grid": "IN73aa",
   "comment": "CQ DX",
   "src": "manual",
-  "club_id": "12345678-90ab-cdef-1234-567890abcdef",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
   "uuid": "550e8400-e29b-41d4-a716-446655440000"
   "data": {
     "path_distance": 1780,
