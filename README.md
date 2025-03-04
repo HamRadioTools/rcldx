@@ -1,2 +1,1 @@
-# rcldx
-Radio Cluster DX
+# Radio Cluster DX (RCLDX)
