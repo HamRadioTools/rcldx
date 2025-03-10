@@ -1,1 +1,13 @@
-{}
+{
+  "type": "iota",
+  "spotter": "EA1HET",
+  "island_ref": "EU-123",
+  "dx": "3Y0J",
+  "freq": 14020.0,
+  "mode": "SSB",
+  "time": "2025-02-26T14:50:00Z",
+  "comment": "IOTA activation on EU-123",
+  "src": "manual",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "f55e3b9c-4d22-4c7d-9bd3-60c7d63a5fb2"
+}
