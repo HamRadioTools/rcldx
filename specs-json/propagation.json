@@ -1,1 +1,18 @@
-{}
+{
+  "type": "propagation",
+  "spotter": "EA1HET",
+  "dx": "IK2WWW",
+  "freq": 14020.0,
+  "mode": "CW",
+  "time": "2025-02-26T14:50:00Z",
+  "snr": 10,
+  "path_distance": 1780,
+  "path_azimuth": 240,
+  "grayline_status": false,
+  "k_index": 2,
+  "solar_flux": 120,
+  "comment": "Good propagation on 20m",
+  "src": "manual",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "f55e3b9c-4d22-4c7d-9bd3-60c7d63a5fb2"
+}
