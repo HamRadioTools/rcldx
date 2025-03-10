@@ -1,1 +1,12 @@
-{}
+{
+  "type": "dxpedition",
+  "spotter": "N0CALL",
+  "dx": "3Y0J",
+  "freq": 21020.0,
+  "mode": "CW",
+  "time": "2025-02-26T14:50:00Z",
+  "comment": "UP 5 DXpedition",
+  "src": "manual",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "f55e3b9c-4d22-4c7d-9bd3-60c7d63a5fb2"
+}
