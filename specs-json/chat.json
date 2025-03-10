@@ -1,1 +1,10 @@
-{}
+{
+  "type": "chat",
+  "from": "EA1HET",
+  "to": "ALL",
+  "message": "Hello everyone! Anyone on 6m?",
+  "time": "2025-02-26T14:30:00Z",
+  "src": "user",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "c71f24be-bc27-4cf5-bb5a-bc2e6c98d8e1"
+}
