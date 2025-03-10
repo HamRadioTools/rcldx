@@ -1,1 +1,12 @@
-{}
+{
+  "type": "satellite",
+  "spotter": "K1XYZ",
+  "dx": "RS-44",
+  "freq": 145800.0,
+  "mode": "SSB",
+  "satellite": "RS-44",
+  "time": "2025-02-26T14:55:00Z",
+  "src": "manual",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "7a28d68f-8bf7-4c3e-9f2e-89d3a5b6f2c9"
+}
