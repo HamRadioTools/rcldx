@@ -1,1 +1,8 @@
-{}
+{
+  "type": "system",
+  "event_type": "info",
+  "message": "Server restart scheduled at 15:00 UTC",
+  "time": "2025-02-26T14:45:00Z",
+  "nodeid": "12345678-90ab-cdef-1234-567890abcdef",
+  "uuid": "d84a19c1-82a5-4c1d-924b-ec2a63c96771"
+}
