@@ -13,7 +13,7 @@
       "pf": 26,
       "ef": 2550,
       "aurora": 1.99,
-      "aurora_lat": 60.7,
+      "auroralat_pct": 60.7,
       "bz": -10.7,
       "sw": 307.6,
       "solar_flare": 65,
@@ -24,7 +24,8 @@
       "gridloc": "IN55el",
       "temp_c": 7.5,
       "wind_kts": 12,
-      "pressure_hpa": 1012
+      "pressure_hpa": 1012,
+      "humidity_pct": 72
     }
 
   }  
