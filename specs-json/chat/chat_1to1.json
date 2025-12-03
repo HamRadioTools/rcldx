@@ -1,0 +1,10 @@
+{
+  "chat": {
+    "de": "EA1HET",
+    "dx": "DL0XXX",
+    "scope": "1to1",        // 1to1 | all | band
+    "msg": {
+      "comment": "Fancy a coffe?"
+    }
+  }
+}

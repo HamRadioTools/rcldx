@@ -1,0 +1,10 @@
+{
+  "chat": {
+    "de": "EA1HET",
+    "dx": "BAND",
+    "scope": "20m",        // 1to1 | all | 20m or similar
+    "msg": {
+      "comment": "Impressive opening North-South to AF"
+    }
+  }
+}

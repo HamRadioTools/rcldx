@@ -1,0 +1,9 @@
+"extended": {
+  "role": "activator",           // activator | hunter | mixed
+  "activations": [
+    { "program": "POTA", "ref": "EU-123" },
+    { "program": "SOTA", "ref": "EA1/AT-001" },
+    { "program": "IOTA", "ref": "AF-001" },
+    { "program": "BOTA", "ref": "B/EA-0001" }
+  ]
+}

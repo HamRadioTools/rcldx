@@ -1,0 +1,31 @@
+{
+  "wx": {
+    "de": "W5MMW",
+    "dx": "ALL",
+
+    "solar": {    
+      "sfi": 200,
+      "sn": 200,
+      "a": 9,
+      "k": 3,
+      "xray": "C2.8",
+      "304a": 144.0,
+      "pf": 26,
+      "ef": 2550,
+      "aurora": 1.99,
+      "aurora_lat": 60.7,
+      "bz": -10.7,
+      "sw": 307.6,
+      "solar_flare": 65,
+      "muf": 15350.0
+    },
+
+    "ground": {
+      "gridloc": "IN55el",
+      "temp_c": 7.5,
+      "wind_kts": 12,
+      "pressure_hpa": 1012
+    }
+
+  }  
+}

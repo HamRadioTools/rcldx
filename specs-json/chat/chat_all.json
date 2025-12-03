@@ -1,0 +1,10 @@
+{
+  "chat": {
+    "de": "EA1HET",
+    "dx": "all",
+    "scope": "all",        // 1to1 | all | band
+    "msg": {
+      "comment": "Seeking sched for 160m tomorrow."
+    }
+  }
+}
