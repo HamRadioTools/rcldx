@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "time": "2025-02-26T14:23:00Z"
+  },
+  "core": {
+    "de": "EA1HET",
+    "dx": "DL0XXX",
+    "data": {
+      "freq": 14205.0,
+      "band": "20m",
+      "mode": "CW",
+      "comment": "CQ DX"
+    }
+  },
+  "extended": {}
+}
