@@ -7,9 +7,7 @@
       "comment": "CQ DX",
       "freq": 14205.0,
       "mode": "CW",
-      "band": "20m",
-      "rst_s": "59",
-      "rst_r": "54"
+      "band": "20m"
     }
   },
   "extended": {}
