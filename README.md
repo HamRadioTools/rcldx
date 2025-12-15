@@ -5,5 +5,3 @@ Radio Cluster DX (RCLDX) is a new MQTT-based cluster technology designed from th
 For detailed information on this project, plese visit the [https://hamradio.tools/docs](https://hamradio.tools/docs)
 
 Thank you.
-
-VY 73 DE EA1HET . .
